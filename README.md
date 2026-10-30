@@ -16,4 +16,4 @@ Projeto desenvolvido como parte do desafio prático do módulo de Introdução a
 1. Certifique-se de que tem o Python instalado (versão 3.x).
 2. Clone o repositório ou descarregue os ficheiros:
    ```bash
-   git clone [https://github.com/edvanroque/agendagsti.git](https://github.com/edvanroque/agendagsti.git)
+   git clone https://github.com/edvanroque/agendagsti.git
